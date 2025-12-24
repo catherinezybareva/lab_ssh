@@ -17,8 +17,6 @@
    <img width="1082" height="710" alt="image" src="https://github.com/user-attachments/assets/be4afc9f-c654-4f57-b349-020d7a598585" />
 10. Установка плагина Remote - SSH для Visual Studio
     <img width="1082" height="710" alt="image" src="https://github.com/user-attachments/assets/f54b6ca1-4032-4519-a3ed-1874bfe1c56b" />
-    <img width="1082" height="710" alt="image" src="https://github.com/user-attachments/assets/311556b5-d333-49f6-91c6-9f25b17b2d1a" />
-    <img width="1082" height="710" alt="image" src="https://github.com/user-attachments/assets/3bc687a8-e7d6-430a-af1e-bc967ed7392d" />
 11. Успешное подключение и домашний каталог ВМ
     <img width="1082" height="710" alt="image" src="https://github.com/user-attachments/assets/28fa763e-91fe-4a68-bea4-f619f79007ff" />
 
